@@ -1,5 +1,5 @@
 # Asian Kitchen's Menu
-## All Manu
+## All Menu
 ![All](image/allmenu.png)
 ## Korea Menu
 ![Korea](image/koreamenu.png)
